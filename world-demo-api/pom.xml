@@ -33,7 +33,6 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
-				<uri>https://anypoint.mulesoft.com</uri>
 				<username>killernanu789</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
